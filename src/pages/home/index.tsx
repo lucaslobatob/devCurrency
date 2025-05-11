@@ -49,7 +49,7 @@ export function Home() {
                             2B
                         </td>
 
-                        <td className={styles.tdLabel} data-label="Mudança 24h">
+                        <td className={styles.tdProfit} data-label="Mudança 24h">
                             <span>1.20</span>
                         </td>
                     </tr>
